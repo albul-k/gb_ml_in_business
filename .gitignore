@@ -1,4 +1,7 @@
 .vscode/
+lection_materials/
+catboost_info/
+data/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
